@@ -63,4 +63,187 @@ body {
 .navbar_container .icons .interaction {
   margin-left: 60px;
   margin-top: 28px;
+}
+
+.name {
+  margin: 53px 0px 0px 351px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.description {
+  margin: 0px 351px 0px 351px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.first_container {
+  display: flex;
+}
+.first_container .left {
+  margin: 47px 0px 0px 349px;
+}
+.first_container .left .lorem1 p {
+  margin: 0px 0px 0px 0px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 63px;
+}
+.first_container .left .lorem2 p {
+  margin: 0px 0px 0px 0px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  color: #E33E54;
+  line-height: 63px;
+}
+.first_container .left .advantages {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 39px 46px 0px 30px;
+}
+.first_container .left .advantages ul {
+  padding-left: 0px;
+  margin-left: 17px;
+}
+.first_container .left .advantages ul li {
+  line-height: 39px;
+  list-style-image: url(./images/Ellipse\ 43.png);
+}
+.first_container .left .advantages ul li p {
+  line-height: 24px;
+  margin-left: 17px;
+}
+.first_container .picture {
+  margin: 45px 180px 0px 0px;
+}
+
+.stick1 {
+  margin: 114px 0px 0px 351px;
+}
+
+.cont2 {
+  margin: 11px 0px 0px 351px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;
+}
+
+.cont3 {
+  display: flex;
+  flex-direction: row;
+}
+.cont3 .left1 {
+  margin: 0px 0px 0px 352px;
+}
+.cont3 .left1 .one .p1 {
+  position: absolute;
+}
+.cont3 .left1 .one .pt1 {
+  display: inline-block;
+}
+.cont3 .left1 .one .pt1 p {
+  margin-left: 71px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+.cont3 .left1 .two {
+  margin: 63px 0px 0px 0px;
+}
+.cont3 .left1 .two .p2 {
+  position: absolute;
+}
+.cont3 .left1 .two .pt2 {
+  display: inline-block;
+}
+.cont3 .left1 .two .pt2 p {
+  margin-left: 71px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+.cont3 .left1 .three {
+  margin: 54px 28px 0px 0px;
+}
+.cont3 .left1 .three .p3 {
+  position: absolute;
+}
+.cont3 .left1 .three .pt3 {
+  display: inline-block;
+}
+.cont3 .left1 .three .pt3 p {
+  margin-left: 71px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.cont3 .right1 .four .p4 {
+  position: absolute;
+}
+.cont3 .right1 .four .pt4 {
+  display: inline-block;
+}
+.cont3 .right1 .four .pt4 p {
+  margin-left: 71px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.cont3 .right1 .five {
+  margin: 54px 28px 0px 0px;
+}
+.cont3 .right1 .five .p5 {
+  position: absolute;
+}
+.cont3 .right1 .five .pt5 {
+  display: inline-block;
+}
+.cont3 .right1 .five .pt5 p {
+  margin-left: 71px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.cont3 .right1 .six {
+  margin: 45px 28px 0px 0px;
+}
+.cont3 .right1 .six .p6 {
+  position: absolute;
+}
+.cont3 .right1 .six .pt6 {
+  display: inline-block;
+}
+.cont3 .right1 .six .pt6 p {
+  margin-left: 71px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.stick2 {
+  margin: 102px 0px 0px 351px;
 }/*# sourceMappingURL=index.css.map */

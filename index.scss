@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
 $pale-preen: #4C858B;
 $red-dark: #AE2236;
+$red-light: #E33E54;
 
 body{
     margin: 0px;
@@ -75,4 +76,190 @@ body{
         }
     }
 }
-
+.name{
+    margin: 53px 0px 0px 351px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+}
+.description{
+    margin: 0px 351px 0px 351px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+.first_container{
+    display: flex;
+    .left{
+        margin: 47px 0px 0px 349px;
+        .lorem1{
+            p{
+                margin: 0px 0px 0px 0px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 40px;
+                line-height: 63px;
+            }
+        }
+        .lorem2{
+            p{
+                margin: 0px 0px 0px 0px;
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 800;
+                font-size: 50px;
+                color: $red-light;
+                line-height: 63px;
+            }
+        }    
+        .advantages{
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            margin: 39px 46px 0px 30px;
+            ul{
+                padding-left: 0px;
+                margin-left: 17px;
+                li{
+                    line-height: 39px;
+                    list-style-image: url(./images/Ellipse\ 43.png);
+                    p{
+                        line-height: 24px;
+                        margin-left: 17px;
+                    }
+                }
+            }
+        }
+    }   
+    .picture{
+        margin: 45px 180px 0px 0px;
+    }
+}
+.stick1{
+    margin: 114px 0px 0px 351px;
+}
+.cont2{
+    margin: 11px 0px 0px 351px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+}
+.cont3{
+  
+    display: flex;
+    flex-direction: row;
+    .left1{
+        margin: 0px 0px 0px 352px;
+        .one{
+            .p1{
+                position: absolute;
+            }
+            .pt1{
+                display: inline-block;
+                p{
+                    margin-left: 71px;
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                }
+            }
+        }
+        .two{
+            margin: 63px 0px 0px 0px;
+            .p2{
+                position: absolute
+            }
+            .pt2{
+                display: inline-block;
+                p{
+                    margin-left: 71px;
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                }
+            }
+        }
+        .three{
+            margin: 54px 28px 0px 0px;
+            .p3{
+                position: absolute
+            }
+            .pt3{
+                display: inline-block;
+                p{
+                    margin-left: 71px;
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 30px;
+                }
+            }
+        }
+    }
+    .right1{
+        .four{
+            .p4{
+                position: absolute
+            }
+            .pt4{
+                display: inline-block;
+                p{
+                    margin-left: 71px;
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 30px;
+                }
+            }
+        }
+        .five{
+            margin: 54px 28px 0px 0px;
+            .p5{
+                position: absolute
+            }
+            .pt5{
+                display: inline-block;
+                p{
+                    margin-left: 71px;
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 30px;
+                }
+            }
+        }
+        .six{
+            margin: 45px 28px 0px 0px;
+            .p6{
+                position: absolute
+            }
+            .pt6{
+                display: inline-block;
+                p{
+                    margin-left: 71px;
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 30px;
+                }
+            }
+        }
+    }
+}
+.stick2{
+    margin: 102px 0px 0px 351px;
+}
